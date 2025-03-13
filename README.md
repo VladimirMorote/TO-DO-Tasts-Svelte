@@ -5,3 +5,5 @@ Este código implementa una lista de tareas con las siguientes funcionalidades: 
 Explicacion de cada parte del programa
 
 https://chat.deepseek.com/a/chat/s/a3bfa2db-7dec-4c74-a492-afa775bcb4e1
+
+morotevladimir@gmail.com
